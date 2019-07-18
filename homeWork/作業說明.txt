@@ -1,2 +1,3 @@
-1. ���ХD�D: �饻���a�����A�u��������v
-2. �B�~�m��: �i�H�b�ɮפ� Ctrl + f �j�M"note:"�i��d��
+1. 介紹主題: 日本當地的金澤「金箔體驗」
+2. 有修改的檔案: img,index.html , templatemo-style.css
+2. 額外練習: 可以在檔案中 Ctrl + f 搜尋"note:"進行查看
